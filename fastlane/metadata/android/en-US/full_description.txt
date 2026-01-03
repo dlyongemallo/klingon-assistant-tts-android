@@ -1,0 +1,5 @@
+This is a Text-To-Speech (TTS) engine for the Klingon language (<pre>tlhIngan Hol</pre>) which can be used with <pre>boQwI'</pre> and other supported apps. It can be used with any web browser which supports the text selection action. (Chrome supports this, Firefox does not.) Look for it under your device's Text-To-Speech settings.
+
+This is a project of the Klingon Language Institute. Klingon, Star Trek, and related marks are trademarks of CBS Studios, Inc., and are used with permission through an arrangement with the KLI.
+
+<b>Note: This is NOT A STAND-ALONE APP itself and THERE IS NO APP ICON.</b>
